@@ -1,7 +1,3 @@
-/* * {
-  border: 1px solid black;
-} */
-
 body {
   margin: 0;
   font-family: "Lato";
@@ -219,7 +215,7 @@ header p {
   background: url("images/forklift.svg");
   height: 450px;
   width: 100%;
-  border: 1px solid red;
+  border: 1px solid transparent;
 }
 
 .section-two h1 {
